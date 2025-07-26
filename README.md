@@ -2,7 +2,7 @@
 
 
 ## Introducción
-Juego de adivinar el número secreto entre el 1 al 10, para pasar el rato y con el que puede jugar desde un niño de 8 años hasta un adulto mayor. 
+Adivina entre el 1 al 10, para pasar el rato y con el que puede jugar desde un niño de 8 años hasta un adulto mayor. 
 
 
 
